@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AtLeastOneValidationAttribute/obj
+/AtLeastOneValidationAttribute/bin/Debug/netcoreapp2.1
+/.vs
